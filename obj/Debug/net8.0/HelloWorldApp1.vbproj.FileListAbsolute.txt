@@ -1,0 +1,14 @@
+C:\Users\sramadugu\source\repos\HelloWorldApp1\HelloWorldApp1\bin\Debug\net8.0\HelloWorldApp1.exe
+C:\Users\sramadugu\source\repos\HelloWorldApp1\HelloWorldApp1\bin\Debug\net8.0\HelloWorldApp1.deps.json
+C:\Users\sramadugu\source\repos\HelloWorldApp1\HelloWorldApp1\bin\Debug\net8.0\HelloWorldApp1.runtimeconfig.json
+C:\Users\sramadugu\source\repos\HelloWorldApp1\HelloWorldApp1\bin\Debug\net8.0\HelloWorldApp1.dll
+C:\Users\sramadugu\source\repos\HelloWorldApp1\HelloWorldApp1\bin\Debug\net8.0\HelloWorldApp1.pdb
+C:\Users\sramadugu\source\repos\HelloWorldApp1\HelloWorldApp1\obj\Debug\net8.0\HelloWorldApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sramadugu\source\repos\HelloWorldApp1\HelloWorldApp1\obj\Debug\net8.0\HelloWorldApp1.AssemblyInfoInputs.cache
+C:\Users\sramadugu\source\repos\HelloWorldApp1\HelloWorldApp1\obj\Debug\net8.0\HelloWorldApp1.AssemblyInfo.vb
+C:\Users\sramadugu\source\repos\HelloWorldApp1\HelloWorldApp1\obj\Debug\net8.0\HelloWorldApp1.vbproj.CoreCompileInputs.cache
+C:\Users\sramadugu\source\repos\HelloWorldApp1\HelloWorldApp1\obj\Debug\net8.0\HelloWorldApp1.dll
+C:\Users\sramadugu\source\repos\HelloWorldApp1\HelloWorldApp1\obj\Debug\net8.0\refint\HelloWorldApp1.dll
+C:\Users\sramadugu\source\repos\HelloWorldApp1\HelloWorldApp1\obj\Debug\net8.0\HelloWorldApp1.pdb
+C:\Users\sramadugu\source\repos\HelloWorldApp1\HelloWorldApp1\obj\Debug\net8.0\HelloWorldApp1.genruntimeconfig.cache
+C:\Users\sramadugu\source\repos\HelloWorldApp1\HelloWorldApp1\obj\Debug\net8.0\ref\HelloWorldApp1.dll
